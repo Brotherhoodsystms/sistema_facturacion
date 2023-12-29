@@ -2,10 +2,10 @@
 class Conexion
 {
 
-  const Url = "http://localhost/sistema_facturacion/app/";
+  const Url = "http://localhost/sistema_facturacion2/app/";
   
 
-  //const Url = "http://109.123.245.33//seli_logistics_inventario/app/";
+  //const Url = "http://109.123.245.33//seli_logistics_inventario20/app/";
   public static function obtenerConexion()
   {
     try {
@@ -16,6 +16,7 @@ class Conexion
       $db = new PDO('mysql:host=localhost;dbname=base_comercios', 'root', '');
       $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
       return $db;
+    
       //echo "Conectado";
     } catch (PDOException $e) {
       echo 'ERROR: ' . $e->getMessage();
