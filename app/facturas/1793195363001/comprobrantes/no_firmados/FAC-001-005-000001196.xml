@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1793195363001</ruc>
+    <claveAcceso>1105202301179319536300110010050000011961234567816</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000001196</secuencial>
+    <dirMatriz>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>11/05/2023</fechaEmision>
+    <dirEstablecimiento>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>WILSON MORALES</razonSocialComprador>
+    <identificacionComprador>1717979544</identificacionComprador>
+    <direccionComprador>LA GATAZO</direccionComprador>
+    <totalSinImpuestos>212.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>212</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>212.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>212.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>559</codigoPrincipal>
+      <descripcion>SELI SYSTEM</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>200.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>200.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>200.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>908070605040</codigoPrincipal>
+      <descripcion>zapato azul</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>12.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>12.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">wilsonlm26@hotmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

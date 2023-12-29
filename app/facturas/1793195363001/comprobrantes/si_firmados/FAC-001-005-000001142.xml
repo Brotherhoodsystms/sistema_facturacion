@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1793195363001</ruc>
+    <claveAcceso>2404202301179319536300110010050000011421234567812</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000001142</secuencial>
+    <dirMatriz>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/04/2023</fechaEmision>
+    <dirEstablecimiento>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>RICHARD TIPANTUÑA</razonSocialComprador>
+    <identificacionComprador>1724254352</identificacionComprador>
+    <direccionComprador>LA MENA </direccionComprador>
+    <totalSinImpuestos>8.13</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>8.19</baseImponible>
+        <valor>0.97</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>9.10</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>9.10</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">javierlobitort@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature988350">
+<ds:SignedInfo Id="Signature-SignedInfo826322">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID735215" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature988350-SignedProperties187949">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HTureFno43PmmPoRTullTJqe3NY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1792335">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+o+912nc8/ca61/viiofL+NtoZs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-60879" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>auSMhyxS3N8xxKaids15CmDx3sg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue123037">
+BFLAVJk/+Mo4bWsdis50ZyiP/09c+B4iUAkaN6EN4AYWD8aJwryUIdqkSeH1Qw2HgdRLZvw+++1k
+MdZf0O2FMlkmUvVzUP10vGqDn5Ty+FxSN1wNkG6NnH5w2dnkeVF3vzx6vHr6HsU/PsmzvlKdDTGA
+bfVICNxYl+xJMbEn6LoCEQhv1FFtF3it98JpPbrATdK4srPKdyJCNnfmgju5qcMuE40TKKdtVklY
+kwKS99AHFFwcqyOS9CQAmbh0hb3Z7AZh+7EyGP7+FaxJjcY7U5nfHftQgCGMBOV5tGoot3nAaJ02
+arV1lbwCfUOW5tuhoGK5iC2ge1asjBRT4biaXA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1792335">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ8zCCB9ugAwIBAgIIY+9qVps+k2owDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDExOTE5MzQwMFoXDTI0MDExOTE5MzQwMFowgecxCzAJBgNVBAYTAkVDMSMwIQYDVQQKDBpT
+RVJWSS1TRUxJTE9HSVNUSUNTIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRowGAYD
+VQQEDBFNT1JBTEVTIEFNQUdVQcORQTEYMBYGA1UEKgwPV0lMU09OIExFT05BUkRPMRkwFwYDVQQF
+ExBJRENFQy0xNzE3OTc5NTQ0MSowKAYDVQQDDCFXSUxTT04gTEVPTkFSRE8gTU9SQUxFUyBBTUFH
+VUHDkUExHDAaBgNVBGEME1ZBVEVDLTE3OTMxOTUzNjMwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCQ0Ws0yIWX/ZpVabFVZX9qlWWKoEIkL+LJubm+EKnvs5jLZUtFB5zJoFx8Of6/
+kvoVmbU6Buas5WUB+/9D2P/KandS4L7MEEc17dkVIS66vLQgy8Jmq5BlSmNoaA/VMsyKP1Hg3Lw8
+wNgzPVzt4Rtx7eC4rd27+3fB0lXZZTjQ7H3WF1Q4hiBdXt5MpY6VpvpF6XpIdFwPEbHm5z8zbMsi
+pmU8hlIH75lCoJK9oAAMVmVbDy1CHhevRBZuXWNC8YCt6C2IzLz35HH6j644l+8Z9VbPltu6Dfkf
+tecq4mg3ESvrRo1tXGPz82kY/zRwN26/TBE9/dq0bB6nrw4j5ZvJAgMBAAGjggTOMIIEyjAbBgsr
+BgEEAYLxNmYDAQQMDAoxNzE3OTc5NTQ0MB4GCysGAQQBgvE2ZgMLBA8MDTE3OTMxOTUzNjMwMDEw
+gdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUF
+BzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUH
+MAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU
+59ehp+7QDJ1qKhE/DssXWeGwo38wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqni
+o2jw4RGydJJz/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYr
+aHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjAp
+DCdDRVJUSUZJQ0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBA
+oD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGlu
+YWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NB
+MnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsG
+AQUFBwMEMIICDwYDVR0RBIICBjCCAgKBGmdlcmVuY2lhQHNlbGlsb2dpc3RpY3MuY29toBsGCysG
+AQQBgvE2ZgMBoAwMCjE3MTc5Nzk1NDSgIAYLKwYBBAGC8TZmAwKgEQwPV0lMU09OIExFT05BUkRP
+oBgGCysGAQQBgvE2ZgMDoAkMB01PUkFMRVOgGgYLKwYBBAGC8TZmAwSgCwwJQU1BR1VBw5FBoCAG
+CysGAQQBgvE2ZgMFoBEMD0dFUkVOVEUgR0VORVJBTKByBgsrBgEEAYLxNmYDB6BjDGFDQUxMRTog
+WUFOVFpBWkEgTk1FUk86IFMxNy0xMjAgSU5URVJTRUNDSU46IFRPQUNBWk8gTk1FUk8gREUgUElT
+TzogMkRPIFJFRkVSRU5DSUE6IERJQUdPTkFMIEEgSE9ToB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkz
+OTg3MTM5MDMzoBYGCysGAQQBgvE2ZgMJoAcMBVFVSVRPoCsGCysGAQQBgvE2ZgMKoBwMGlNFUlZJ
+LVNFTElMT0dJU1RJQ1MgUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTE3OTMxOTUzNjMwMDGgEwYL
+KwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAY
+BgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQCkq974nPGWtcn4mhqm
++m5EfgKpFUkAl8XDRoXwk+jDOf/mf1JcoFC1dH+z9+EbeeubjHDXGFrUbZA4iD1o55h0qdHDkKpH
+hs6rdbMrDgVeVXnJSCvEnJhmp7N4lRu4zvdNZcFLBmyg+k5e5xVfeOdkHtxf4ifeROuPN90Vsbml
+mMKwqFeDta/iXOAvJK5aJzhLxe+GznbgtF9x9FiMneAz79ZdNxYnXLx2Dn3wvHSaxfwzp8heHc/Q
+Ms8xTYCtOSw9XJU4YCMM8QfOU62kAq55/0d/bY9FEs1yjLsrJ4XV8oeCLt7kG3kxKBqZKQnjnGjy
+w8LitszGMGtB4vLDrBTdlVPkhePlH0wZHc+mdsquwReqHo7is8OFRGGPbL21yXbo4kqSx1p0DfSS
+SPMp45OkfcWM4qS2OPOIj2vdDntRKjlnPZR0HhCqcaM11SFySrjLQP6SCajHUsRjIMURXDBpH6FH
+nL5udb9kfGB7SXwh19GGaxJxaMvxL01k3XRrD372but9pl3OLoU7bZZisZlDxcbrS1t/RClmMUv1
+bUVaF02CSEjY7A7Yqj0OXjBuUaLqza7fO1v3nfMZhJS6YR9fAEM6A1ZnxK77Z0KIXZKdE94fH66s
+pxweSQfp4A7wjfK5kvsriwePDTAb1QzZ1iLsQUefjCA8h3xa6lJLR9exPA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kNFrNMiFl/2aVWmxVWV/apVliqBCJC/iybm5vhCp77OYy2VLRQecyaBcfDn+v5L6FZm1OgbmrOVl
+Afv/Q9j/ymp3UuC+zBBHNe3ZFSEuury0IMvCZquQZUpjaGgP1TLMij9R4Ny8PMDYMz1c7eEbce3g
+uK3du/t3wdJV2WU40Ox91hdUOIYgXV7eTKWOlab6Rel6SHRcDxGx5uc/M2zLIqZlPIZSB++ZQqCS
+vaAADFZlWw8tQh4Xr0QWbl1jQvGAregtiMy89+Rx+o+uOJfvGfVWz5bbug35H7XnKuJoNxEr60aN
+bVxj8/NpGP80cDduv0wRPf3atGwep68OI+WbyQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature988350-Object506174"><etsi:QualifyingProperties Target="#Signature988350"><etsi:SignedProperties Id="Signature988350-SignedProperties187949"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-04-24T17:59:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ftv4DvBnaxPt9cPN1aw1RPr6SLM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7201091249393013610</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-60879"><etsi:Description>Doc</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

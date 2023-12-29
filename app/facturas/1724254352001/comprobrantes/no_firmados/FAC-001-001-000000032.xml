@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1717979544001</ruc>
+    <claveAcceso>0612202201171797954400110010010000000321234567816</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000032</secuencial>
+    <dirMatriz>ASDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/12/2022</fechaEmision>
+    <dirEstablecimiento>ASDAS</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Richard Tipantuña</razonSocialComprador>
+    <identificacionComprador>1724254352001</identificacionComprador>
+    <direccionComprador>AV.PEDRO VICENTE MALDONADO Y AV ANTONIO  JOSE SUCRE BARRIO LIBERTAD OI34'9</direccionComprador>
+    <totalSinImpuestos>44.64</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>50.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>50.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>50.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles/>
+  <infoAdicional>
+    <campoAdicional nombre="email">javierlobitort@gmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

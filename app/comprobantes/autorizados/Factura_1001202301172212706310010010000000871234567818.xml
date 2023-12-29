@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="Comprobante" version="1.00">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELI LOGISTICS</nombreComercial>
+    <ruc>1722127063</ruc>
+    <claveAcceso>1001202301172212706310010010000000871234567818</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>ASDAS</secuencial>
+    <dirMatriz>ASDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision/>
+    <direccionEstablecimiento>DIRECCION ESTABLECIMIENTO</direccionEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>NOMBRE DEL COMPRADOR</razonSocialComprador>
+    <identificacionComprador>1234567891</identificacionComprador>
+    <totalSinImpuestos>400.50</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos/>
+    <totalImpuesto/>
+    <codigo>2</codigo>
+    <codigoPorcentaje>0</codigoPorcentaje>
+    <baseImponible>1.00</baseImponible>
+    <valor>0</valor>
+    <propina>0.00</propina>
+    <importeTotal>0.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>448.56</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PROD008</codigoPrincipal>
+      <descripcion>DESCRIPCION DEL PRODUCTO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotal>1.00</precioTotal>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">xyz@xyz.com</campoAdicional>
+  </infoAdicional>
+</factura>

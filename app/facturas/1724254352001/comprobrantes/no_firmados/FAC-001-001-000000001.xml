@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1793195363001</ruc>
+    <claveAcceso>2311202201179319536300110010010000000011234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000001</secuencial>
+    <dirMatriz>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>23/11/2022</fechaEmision>
+    <dirEstablecimiento>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Richard TipantuÃ±a</razonSocialComprador>
+    <identificacionComprador>1724254352</identificacionComprador>
+    <direccionComprador>AV.PEDRO VICENTE MALDONADO Y AV ANTONIO  JOSE SUCRE BARRIO LIBERTAD OI34'9</direccionComprador>
+    <totalSinImpuestos>402.30</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>402.30</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>402.30</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>402.30</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles/>
+  <infoAdicional>
+    <campoAdicional nombre="email">javierlobitort@gmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

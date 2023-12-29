@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1717979544001</ruc>
+    <claveAcceso>2311202201171797954400110010010000000031234567815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000003</secuencial>
+    <dirMatriz>ASDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>23/11/2022</fechaEmision>
+    <dirEstablecimiento>ASDAS</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Richard Tipantuña</razonSocialComprador>
+    <identificacionComprador>1724254352001</identificacionComprador>
+    <direccionComprador>AV.PEDRO VICENTE MALDONADO Y AV ANTONIO  JOSE SUCRE BARRIO LIBERTAD OI34'9</direccionComprador>
+    <totalSinImpuestos>395.12</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>442.53</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>442.53</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>442.53</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>402.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>402.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">javierlobitort@gmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MORALES AMAGUAÑA WILSON LEONARDO</razonSocial>
+    <nombreComercial>FARMAGEN</nombreComercial>
+    <ruc>1717979544001</ruc>
+    <claveAcceso>1502202301171797954400120010010000000021234567819</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000002</secuencial>
+    <dirMatriz>PICHINCHA / QUITO / SAN BARTOLO	YANTZAZA / S17-120 / S17B</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>15/02/2023</fechaEmision>
+    <dirEstablecimiento>PICHINCHA / QUITO / SAN BARTOLO	YANTZAZA / S17-120 / S17B</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Richard Tipantuña</razonSocialComprador>
+    <identificacionComprador>1724254352</identificacionComprador>
+    <direccionComprador>AV.PEDRO VICENTE MALDONADO Y AV ANTONIO  JOSE SUCRE BARRIO LIBERTAD OI34'9</direccionComprador>
+    <totalSinImpuestos>0.60</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0.60</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>0.60</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>0.60</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>568923456111132</codigoPrincipal>
+      <descripcion>caja de plachas oster casero color negro</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.60</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.60</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.60</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">javierlobitort@gmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

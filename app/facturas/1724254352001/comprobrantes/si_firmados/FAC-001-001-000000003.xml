@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1720271822001</ruc>
+    <claveAcceso>2311202201172027182200110010010000000031234567819</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000003</secuencial>
+    <dirMatriz>ASDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>23/11/2022</fechaEmision>
+    <dirEstablecimiento>ASDAS</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Richard Tipantuña</razonSocialComprador>
+    <identificacionComprador>1724254352</identificacionComprador>
+    <direccionComprador>AV.PEDRO VICENTE MALDONADO Y AV ANTONIO  JOSE SUCRE BARRIO LIBERTAD OI34'9</direccionComprador>
+    <totalSinImpuestos>395.12</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>442.53</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>442.53</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>442.53</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>402.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>402.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7791234567898</codigoPrincipal>
+      <descripcion>cajas de papel bond a4 doble hoja</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>40.23</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>442.53</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">javierlobitort@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature604237">
+<ds:SignedInfo Id="Signature-SignedInfo469228">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID271067" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature604237-SignedProperties818638">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>InjLvss7zZlfvOtES3zgnZWtUys=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate116529">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7oKu1AT//7Ejj+TtepzoYcK5FTI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-413672" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2L/vO0m8G3evV+iXHLSabQIQal0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue958513">
+MdnIbZ966J6cY4SFqO2QXcSXMhVdHONwum+gue0b92pT0Ih8+SCqHsjBf3RZPpB8JXQhJmntLZqf
+ZgoELDNXGykN7XNsLwUUhziYSqEV/ojlhBCP3uRxD8jAwUqrkAxuHj5ZUa0Rn/HkQkFa90FtdryX
+jNDn6nhzpbEzit9gTPtb8jXVVeH1tPhK9W6lfoPWcFtb6ValnWNqzmPuUBh0tmE5E1Baoswbl1Uw
+9ddX3YQXJGTVY/LxXvETv/oPKshez2v+FPihw3vRP/THUGYy7YxW51pl5UVxr9vBJdMj26tGr0CY
+3kFfyA+aO+lD5ymCcAV0oltmnG7HHilIzWLlyQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate116529">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJDDCCBvSgAwIBAgIIbVghus/hlDQwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTIxMzE1MjIwMFoXDTIzMTIxMzE1MjIwMFowgZwxCzAJBgNVBAYTAkVDMRYwFAYDVQQEDA1N
+VVFVSVMgQ1VFTkNBMRYwFAYDVQQqDA1NQVJJQSBBVUdVU1RBMRkwFwYDVQQFExBJRENFQy0xNzIw
+MjcxODIyMSQwIgYDVQQDDBtNQVJJQSBBVUdVU1RBIE1VUVVJUyBDVUVOQ0ExHDAaBgNVBGEME1RJ
+TkVDLTE3MjAyNzE4MjIwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCCjAQZawa/
+YeRvbhYh1f86TndJDmWiinfj7krmjNo8mYj535lonh6JXRDxhYfIDRhTFbe6+ebF+/a0hXmkEs7X
+8RAzFvL6tBoyv7N0hcksU9a8xUCVCdwcBGbfjNK7wUeDlJ/EUnOk+4qK/m9VWBNMpAqVYn8qH7Bm
+Gy8NVkRHLrq9zcnz2IN1+hphV4d99mhbJeeqTAAJyM6/FE0PQYbghM237iQSrKkkPWnmTnAIb6Bk
+dtzv0dq3rMwpw29DqgbFlBlYQQ2wOPGNBwDAwNUWbSoftUmt88TRob/CwuzUCgGKhgBYZXzzunuo
+GCIYG59f++Y//iVdYixL+cgaQJ7DAgMBAAGjggQyMIIELjAbBgsrBgEEAYLxNmYDAQQMDAoxNzIw
+MjcxODIyMB4GCysGAQQBgvE2ZgMLBA8MDTE3MjAyNzE4MjIwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUFtYgCYTyAbZ7dZRszqpTHXVV
+PpQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggFoBgNVHREEggFfMIIBW4EYamF2aWVybG9iaXRvcnRAZ21haWwuY29toBsGCysGAQQBgvE2ZgMB
+oAwMCjE3MjAyNzE4MjKgHgYLKwYBBAGC8TZmAwKgDwwNTUFSSUEgQVVHVVNUQaAXBgsrBgEEAYLx
+NmYDA6AIDAZNVVFVSVOgFwYLKwYBBAGC8TZmAwSgCAwGQ1VFTkNBoB0GCysGAQQBgvE2ZgMHoA4M
+DFNBTlRBIFBSSVNDQaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk4NzEzOTAzM6AWBgsrBgEEAYLx
+NmYDCaAHDAVRVUlUT6AeBgsrBgEEAYLxNmYDC6APDA0xNzIwMjcxODIyMDAxoBMGCysGAQQBgvE2
+ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsr
+BgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQAxazHrORZisI57BoWV0i4k
+7r1hNCsttLnhNOttgTYmb/KelEpCy8XLW9aDu6nDb5UMy7/NLrml341l5vnGCKu75+qJHEV6AQNf
+dltW4nIQazq8yBqtXnyDEMmslifaEk/vZtnkq55C01Rj2uAbXZvWJhr+ato6bP1+ATiEn3aW257O
+uyCAJ5Tih4A67S4nuBIE9WPA7jPjYcXMT4INeLLJPXWxucwkNC2kMb/41S8S4HRi9kB/dZm4/wXC
+K2IE3tXH+qg3hbIZJWGwXHxfe+2+uiX8qXjVYpooUGWu0mo1/PvD9p+6liTboYrVVe1VmAwnK7/b
++gl3exTBoP9Lzh+O4CF9ooPKDkMEgIh0gQyuFHj6Uj7N+W7K0onwJYzMrGvBPw90WkDBCmaIm/jT
+qceVrV9KVIpc74KqQmVj56xVQ4y87k1k32qC1g1K7VQoDUKRmdmzsHoMAk74I+rF2tsIOLdOXI75
+6zBLUJ6JmEv/5xG7M4L9pbewvAm2hdJFFZq3lmEZZ9fr8E7+555Egs8YPRuU8FdfmYU9Wl9N3Ni3
+d39lKjwfLRnLt51auDQoZEay/0I9bWu7bE7+JEUSUd8iLcr05RMevXI7ey8PdQ/Z8EqMGcLFRqSv
+fLu2ufEymhW6+MEyIpSK8FnJWhqFYXqOa9KgOEMcBcI0HiNHufmmOA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gowEGWsGv2Hkb24WIdX/Ok53SQ5loop34+5K5ozaPJmI+d+ZaJ4eiV0Q8YWHyA0YUxW3uvnmxfv2
+tIV5pBLO1/EQMxby+rQaMr+zdIXJLFPWvMVAlQncHARm34zSu8FHg5SfxFJzpPuKiv5vVVgTTKQK
+lWJ/Kh+wZhsvDVZERy66vc3J89iDdfoaYVeHffZoWyXnqkwACcjOvxRND0GG4ITNt+4kEqypJD1p
+5k5wCG+gZHbc79Hat6zMKcNvQ6oGxZQZWEENsDjxjQcAwMDVFm0qH7VJrfPE0aG/wsLs1AoBioYA
+WGV887p7qBgiGBufX/vmP/4lXWIsS/nIGkCeww==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature604237-Object435237"><etsi:QualifyingProperties Target="#Signature604237"><etsi:SignedProperties Id="Signature604237-SignedProperties818638"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-01-17T16:50:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>0PHGs34g5UGBDxnS6/uB0xrU8fc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7879084634319983668</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-413672"><etsi:Description>Doc</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1793195363001</ruc>
+    <claveAcceso>1005202301179319536300110010050000011941234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000001194</secuencial>
+    <dirMatriz>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>10/05/2023</fechaEmision>
+    <dirEstablecimiento>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>RICHARD TIPANTUÑA</razonSocialComprador>
+    <identificacionComprador>1724254352</identificacionComprador>
+    <direccionComprador>LA MENA </direccionComprador>
+    <totalSinImpuestos>3.98</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>3.98</baseImponible>
+        <valor>0.48</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>3.98</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>3.98</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>01</codigoPrincipal>
+      <descripcion>MANTENIMIENTO DE COMPUTADORAS SERVIDORES </descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>3.98</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.98</baseImponible>
+          <valor>0.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">selisistemd@gmail.com</campoAdicional>
+  </infoAdicional>
+</factura>

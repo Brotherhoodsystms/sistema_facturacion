@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>WILSON MORALES</razonSocial>
+    <nombreComercial>SELILOGISTICS</nombreComercial>
+    <ruc>1793195363001</ruc>
+    <claveAcceso>2401202301179319536300110010010000001781234567819</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000178</secuencial>
+    <dirMatriz>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/01/2023</fechaEmision>
+    <dirEstablecimiento>PICHINCHA QUITO LA MAGDALENA AVENIDA ALONSO DE ANGULO OE2-47 Y CRISTOBAL TENORIO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>wilson morales</razonSocialComprador>
+    <identificacionComprador>1717979544001</identificacionComprador>
+    <direccionComprador>agatazo</direccionComprador>
+    <totalSinImpuestos>40.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>40.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>40.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>40.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>10000000024</codigoPrincipal>
+      <descripcion>MIGRA DORIXINA</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>4.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>40.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">wilsonlm26@hotmail.com</campoAdicional>
+  </infoAdicional>
+</factura>
