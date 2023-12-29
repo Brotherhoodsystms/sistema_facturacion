@@ -5,7 +5,7 @@ class Conexion
   const Url = "http://localhost/sistema_facturacion/app/";
   
 
-  //const Url = "http://109.123.245.33//seli_logistics_inventario/app/";
+  //const Url = "http://109.123.245.33//seli_logistics_inventario2023/app/";
   public static function obtenerConexion()
   {
     try {
